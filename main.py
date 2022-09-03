@@ -1,1 +1,6 @@
-import pygame
+import pygame as pg
+
+pg.init()
+
+
+
